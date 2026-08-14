@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
+
+# Go
+*.exe
+*.test
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
