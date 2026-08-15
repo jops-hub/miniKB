@@ -56,8 +56,7 @@ SQLite
 # 🚀 Funcionalidades
 
 ### Gerenciamento de tarefas
-
-* [x] Criar tarefa
+![Userflow](docs/Userflow.png)
 * [x] Listar tarefas
 * [x] Editar tarefa
 * [x] Excluir tarefa
