@@ -54,9 +54,9 @@ SQLite
 ---
 
 # 🚀 Funcionalidades
-
-### Gerenciamento de tarefas
+### USERFLOW
 ![Userflow](docs/Userflow.png)
+### Gerenciamento de tarefas
 * [x] Listar tarefas
 * [x] Editar tarefa
 * [x] Excluir tarefa
@@ -613,10 +613,6 @@ Como evolução futura do projeto:
 * [ ] Mensagens de sucesso e erro mais detalhadas
 
 ---
-#  Visual :
-
-
-
 
 #  Desenvolvedor
 
@@ -632,7 +628,6 @@ Este projeto foi desenvolvido para fins educacionais e de demonstração de habi
 
 ````
 
-## 
 
 
 

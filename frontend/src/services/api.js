@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:8080";
+const API_URL =
+  import.meta.env.VITE_API_URL || "http://localhost:8080";
 
 export async function getTasks() {
   const response = await fetch(`${API_URL}/tasks`);
@@ -25,6 +26,7 @@ export async function createTask(task) {
 
   return response.json();
 }
+
 export async function updateTask(id, task) {
   const response = await fetch(`${API_URL}/tasks/${id}`, {
     method: "PUT",
