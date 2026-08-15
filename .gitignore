@@ -22,3 +22,17 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+gitignore
+
+# Backend
+backend/kanban.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Sistema
+.DS_Store
+
+# Editor
+.vscode/

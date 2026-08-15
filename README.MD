@@ -66,7 +66,9 @@ SQLite
 * [x] Persistência em SQLite
 
 ### Interface
+## 📸 Interface
 
+![Mini Kanban](docs/screenshot.png)
 * [x] Visualização em formato Kanban
 * [x] Separação por status
 * [x] Contador de tarefas por coluna
@@ -612,10 +614,14 @@ Como evolução futura do projeto:
 * [ ] Mensagens de sucesso e erro mais detalhadas
 
 ---
+#  Visual :
 
-# 👩‍💻 Desenvolvedora
 
-**Fabíola Oliveira**
+
+
+# 👩‍💻 Desenvolvedor
+
+**Jahaziel Pomahualca**
 
 Projeto desenvolvido como desafio prático Fullstack.
 
@@ -627,29 +633,7 @@ Este projeto foi desenvolvido para fins educacionais e de demonstração de habi
 
 ````
 
-## Uma coisa importante antes de colocar no GitHub
+## 
 
-Eu faria **3 pequenos ajustes** nesse README antes de considerar finalizado:
 
-1. **Não subir o `kanban.db` para o GitHub**, porque ele é um arquivo gerado em execução.
-2. Criar um `.gitignore` na raiz.
-3. Colocar uma imagem/screenshot real da sua interface no README. Isso dá uma aparência muito mais profissional ao repositório.
 
-O `.gitignore` pode ser:
-
-```gitignore
-# Backend
-backend/kanban.db
-
-# Frontend
-frontend/node_modules/
-frontend/dist/
-
-# Sistema
-.DS_Store
-
-# Editor
-.vscode/
-````
-
-E depois podemos fazer uma coisa que vai deixar seu projeto **bem mais forte para a avaliação**: montar a seção **"Screenshots" + User Flow + arquitetura**, usando a interface que você acabou de criar.
