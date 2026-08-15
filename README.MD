@@ -618,7 +618,7 @@ Como evolução futura do projeto:
 
 
 
-# 👩‍💻 Desenvolvedor
+#  Desenvolvedor
 
 **Jahaziel Pomahualca**
 
